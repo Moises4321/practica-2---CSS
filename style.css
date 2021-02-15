@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(155, 232, 238);
+}
+div.titulo{
+    
+    text-align: center;   
+}
+hr.medio{
+    width: 50%;
+}
+nav.blanco{
+    background-color: white;
+}
+
+img.valencia{
+   
+    height: 150px;
+}
+p.centradoimg{
+    text-align: center;
+}
+div.azul{
+    background-color: blue;
+    width: 70px;
+    height: 70px;
+}
+img.valencia:hover{
+    opacity: 0.4;
+}
+p.centrado{
+    text-align: center;
+    position: relative;
+    
+    font-size: 150%;
+}
+section.blanco{
+    background-color: white;
+}
