@@ -1,16 +1,15 @@
 body{
-    background-color: rgb(155, 232, 238);
+    background-color:white
 }
 div.titulo{
     
     text-align: center;   
+    background-color:skyblue
 }
 hr.medio{
     width: 50%;
 }
-nav.blanco{
-    background-color: white;
-}
+
 
 img.valencia{
    
@@ -21,18 +20,40 @@ p.centradoimg{
 }
 div.azul{
     background-color: blue;
-    width: 70px;
-    height: 70px;
+    height: 30px;
 }
 img.valencia:hover{
     opacity: 0.4;
 }
 p.centrado{
-    text-align: center;
-    position: relative;
     
-    font-size: 150%;
+    position: relative;
+    left: 500px;
+    font-size: 200%;
 }
-section.blanco{
+section.blanca{
     background-color: white;
+   
+}
+p.azul{
+    color: blue;
+    font-weight: bold;
+
+}
+
+div.imagen{
+   width: 1000px;
+    background-image: url(img/valencia_antigua.jpg) 
+}
+
+div.ultimo{
+    background-color:skyblue
+}
+p.mapa{
+    text-align: center;
+    
+}
+
+span.uno:hover{
+background-color: skyblue;
 }
